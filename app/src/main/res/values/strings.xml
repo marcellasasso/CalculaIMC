@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CalculaIMC</string>
+    <string name="title">Cálculo do Imposto de Renda</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="calcula">Calcula</string>
+    <string name="imc">IMC: %s</string>
+    <string name="muito_abaixo">Resultado: Muito abaixo do peso</string>
+    <string name="abaixo">Resultado: Abaixo do peso</string>
+    <string name="normal">Resultado: Peso normal</string>
+    <string name="acima">Resultado: Acima do peso</string>
+    <string name="obesidade_I">Resultado: Obesidade I</string>
+    <string name="obesidade_II">Resultado: Obesidade II (severa)</string>
+    <string name="obesidade_III">Resultado: Obesidade III (mórbida)</string>
+</resources>
